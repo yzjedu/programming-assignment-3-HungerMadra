@@ -31,9 +31,9 @@ You are tasked with writing a program that grades a multiple-choice exam. Each q
 ## Intro Comments Template
 
 ```python
-# Programmer: [your name]
+# Programmer: [Anierobi Eziolise]
 # Course: CS701/GB-731, Dr. Yalew
-# Date: [Submission date]
+# Date: [08-13-2024]
 # Programming Assignment: 3
 # Program Inputs: A string containing answer
 # Program Outputs: Very good(If 100% correct) or Missed number and Score Presentage
