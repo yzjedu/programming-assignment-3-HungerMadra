@@ -1,3 +1,10 @@
+# Programmer: [Anierobi Eziolise]
+# Course: CS701/GB-731, Dr. Yalew
+# Date: [08-13-2024]
+# Programming Assignment: 3
+# Program Inputs: A string containing answer
+# Program Outputs: Very good(If 100% correct) or Missed number and Score Presentage
+
 def main():
     # Define a string containing the correct answers.
     CORRECT_ANSWERS = "adbdcacbdac"
